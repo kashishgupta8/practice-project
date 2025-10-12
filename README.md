@@ -1,4 +1,4 @@
 # practice-project
 This is my first Git Repository.
 <br>
-Author-Kashish
+Author-Kashish Gupta 
